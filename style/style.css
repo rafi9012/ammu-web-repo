@@ -25,4 +25,35 @@ padding: 177px 344px;
     color: #FFFFFF;
     margin-top: 22px;
 }
+.off-rafi{
+    font-weight: bold;
+    font-size: 88px;
+    margin-left: 609px;
+    margin-right: 608px;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+.holiday{
+    font-size: 24px;
+    font-weight: normal;
+    color: #FF0000;
+    margin-left: 603px;
+    margin-right: 600px;
+
+}
+.catagory{
+    font-weight: bold;
+    font-size: 48px;
+    color:#FF0000;
+    margin-left: 596px;
+    margin-right: 594px;
+    margin-top: 16px;
+}
+.image{
+    margin-left: 400px;
+    width: 802px;
+    height: 500px;
+    margin-bottom: 120px;
+   
+}
            
