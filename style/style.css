@@ -100,5 +100,37 @@ padding: 177px 344px;
     margin-right: 124px;
     margin-bottom: 69px;
 }
+.place{
+    font-weight: bold;
+    font-size: 32px;
+    color: #FF0000;
+}
+.black{
+    font-weight: bold;
+    font-size: 32px;
+    color: black;
+}
+.third-project{
+   
+    width: 1320px;
+    height: 482px;
+}
+.only-write{
+    text-align: center;
+    margin-right: 150px;
+
+}
+.btn-2{
+    font-weight: bold;
+    font-size: 20px;
+    border: #FF0000 solid 2px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    margin-top: 38px;
+    margin-bottom: 230px;
+
+
+}
 
    
