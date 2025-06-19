@@ -1,0 +1,28 @@
+.first-project{
+background:rgba(0,0,0,0.7)url(../rafi-photo/Banner\ Image.png);
+background-blend-mode: darken;
+width: 1320px;
+height: 600px;
+margin-top: 50px;
+margin-bottom: 120px;
+margin-left: 140px;
+margin-right: 140px;
+border-radius: 16px;
+
+}
+.new-year-title{
+text-align: center;
+padding: 177px 344px;
+}
+.year{
+    font-weight: normal;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.party{
+    font-weight: bold;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 22px;
+}
+           
