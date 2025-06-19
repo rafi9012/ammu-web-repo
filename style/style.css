@@ -56,4 +56,49 @@ padding: 177px 344px;
     margin-bottom: 120px;
    
 }
-           
+.third-project{
+    background: rgba(0,0,0,0.7)url(../rafi-photo/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin-left: 126px;
+    background-blend-mode: darken;
+    margin-bottom: 114px;
+    
+    
+}
+.midnight{
+    font-weight:bold ;
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-top: 124px;
+    margin-left: 140px;
+}
+.amet{
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 140px;
+}
+.join-me{
+    font-weight: bold;
+    font-size: 20px;
+  color: brown;
+  margin-left: 172px;
+    
+   
+}
+.baba-1{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.vector{
+    width: 319px;
+    height: 464px;
+    margin-top: 66px;
+    margin-right: 124px;
+    margin-bottom: 69px;
+}
+
+   
